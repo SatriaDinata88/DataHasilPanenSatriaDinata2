@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1767272430 source:d:\datahasilpanen\main\main.cpp
+	<iostream>
+	"panen.h"
+
+1767272410 d:\datahasilpanen\main\panen.h
+	<string>
+
+1767272419 source:d:\datahasilpanen\main\panen.cpp
+	"panen.h"
+	<iostream>
+
