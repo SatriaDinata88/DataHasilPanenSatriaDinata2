@@ -30,4 +30,4 @@ void tambahData(List &L, infotype x);
 address panenTerbanyak(List L);
 void panenBulanan(List L, string bulan);
 
-#endif // PANEN_H_INCLUDED
+#endif
